@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Indo News.iml" filepath="$PROJECT_DIR$/Indo News.iml" group="Indo News" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Indo News/app" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/simple-project-code-raizenfighter.iml" filepath="$PROJECT_DIR$/.idea/simple-project-code-raizenfighter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/simple-project-code-raizenfighter-Indo News.iml" filepath="$PROJECT_DIR$/simple-project-code-raizenfighter-Indo News.iml" group="Indo News" />
-      <module fileurl="file://$PROJECT_DIR$/app/simple-project-code-raizenfighter-app.iml" filepath="$PROJECT_DIR$/app/simple-project-code-raizenfighter-app.iml" group="Indo News/app" />
+      <module fileurl="file://$PROJECT_DIR$/Corona Info.iml" filepath="$PROJECT_DIR$/Corona Info.iml" group="Corona Info" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Corona Info/app" />
     </modules>
   </component>
 </project>

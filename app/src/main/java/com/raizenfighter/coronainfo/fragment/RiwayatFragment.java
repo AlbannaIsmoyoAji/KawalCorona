@@ -21,10 +21,6 @@ import com.raizenfighter.coronainfo.viewmodel.RiwayatViewModel;
 
 import java.util.ArrayList;
 
-/**
- * Created by Azhar Rivaldi on 20/03/2020.
- */
-
 public class RiwayatFragment extends Fragment {
 
     private HistoryListAdapter adapter;

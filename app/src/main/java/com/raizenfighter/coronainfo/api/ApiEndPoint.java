@@ -10,10 +10,6 @@ import retrofit2.Call;
 import retrofit2.http.GET;
 import retrofit2.http.Path;
 
-/**
- * Created by Azhar Rivaldi on 20/03/2020.
- */
-
 public interface ApiEndPoint {
 
     @GET(Api.END_POINT_WORLD_HISTORY)

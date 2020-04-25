@@ -27,10 +27,6 @@ import com.github.mikephil.charting.utils.ColorTemplate;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Azhar Rivaldi on 20/03/2020.
- */
-
 public class RingkasanFragment extends Fragment {
 
     private ProgressDialog mProgressApp;

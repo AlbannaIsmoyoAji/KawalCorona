@@ -17,10 +17,6 @@ import com.google.android.material.bottomnavigation.BottomNavigationView;
 import java.util.Calendar;
 import java.util.Date;
 
-/**
- * Created by Azhar Rivaldi on 20/03/2020.
- */
-
 public class MainActivity extends AppCompatActivity implements BottomNavigationView.OnNavigationItemSelectedListener {
 
     TextView tvToday;

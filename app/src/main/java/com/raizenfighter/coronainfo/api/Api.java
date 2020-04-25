@@ -1,9 +1,5 @@
 package com.raizenfighter.coronainfo.api;
 
-/**
- * Created by Azhar Rivaldi on 20/03/2020.
- */
-
 public class Api {
 
     public static final String BASE_URL = "https://covid19.mathdro.id";

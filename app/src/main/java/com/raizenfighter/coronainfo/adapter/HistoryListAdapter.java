@@ -14,10 +14,6 @@ import com.raizenfighter.coronainfo.model.RiwayatModel;
 
 import java.util.ArrayList;
 
-/**
- * Created by Azhar Rivaldi on 20/03/2020.
- */
-
 public class HistoryListAdapter extends RecyclerView.Adapter<HistoryListAdapter.ViewHolder> {
 
     private ArrayList<RiwayatModel> riwayatModels = new ArrayList<>();

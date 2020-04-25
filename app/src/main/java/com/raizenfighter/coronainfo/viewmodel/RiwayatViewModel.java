@@ -20,10 +20,6 @@ import retrofit2.Callback;
 import retrofit2.Response;
 import retrofit2.Retrofit;
 
-/**
- * Created by Azhar Rivaldi on 20/03/2020.
- */
-
 public class RiwayatViewModel extends ViewModel {
 
     private MutableLiveData<ArrayList<RiwayatModel>> mutableLiveData = new MutableLiveData<>();

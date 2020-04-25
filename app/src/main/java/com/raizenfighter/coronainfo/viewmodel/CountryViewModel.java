@@ -13,10 +13,6 @@ import retrofit2.Callback;
 import retrofit2.Response;
 import retrofit2.Retrofit;
 
-/**
- * Created by Azhar Rivaldi on 20/03/2020.
- */
-
 public class CountryViewModel extends ViewModel {
 
     private MutableLiveData<CountryModel> mutableLiveData = new MutableLiveData<>();
